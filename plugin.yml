@@ -1,0 +1,7 @@
+---
+name: XPBank
+version: 0.0.1
+main: MonoAdrian23\XPBank\Main
+api: 3.14.0
+description: "§dZahle deine Erfahrung ein"
+...
